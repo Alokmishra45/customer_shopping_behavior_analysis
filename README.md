@@ -125,6 +125,7 @@ Customer_Shopping_Behavior_Analysis/
 ## 👨‍💻 Author
 
 **Alok Mishra**
+** iamalokkumarmishra@hotmail.com **
 
 - Python
 - SQL
